@@ -1,0 +1,4 @@
+date
+cal
+ls -la
+hostname; hostname -i; hostname -I

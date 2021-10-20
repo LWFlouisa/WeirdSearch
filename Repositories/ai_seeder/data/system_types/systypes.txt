@@ -1,0 +1,7 @@
+cd routines/rikusuto; ruby atemu.rb; ruby rikusuto.rb; ruby generate.rb
+cd routines/apple_color; ruby apple
+cd routines/simple_searches; ruby standard.rb
+cd routines/simple_searches; ruby random_search.rb
+date
+cal
+ls -la

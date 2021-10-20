@@ -2,5 +2,5 @@
 title: "Yacy Search"
 layout: page
 ---
-{%- include yacy.html -%}
-{%- include yScript -%}
+{%- include    yacy.html -%}
+{%- include yScript.html -%}

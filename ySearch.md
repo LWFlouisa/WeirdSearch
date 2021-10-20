@@ -1,5 +1,5 @@
 ---
-title: "Yacy Search"
+title: "WeirdSearch Yacy"
 layout: page
 ---
 {%- include    yacy.html -%}

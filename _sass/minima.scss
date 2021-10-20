@@ -10,14 +10,17 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       silver !default;
-$background-color: #151515 !default;
-$brand-color:      #F4B4C7 !default; // Terminal Green
+$text-color:       #EB2323 !default;
+$background-color: #171717 !default;
 
-$grey-color:       white !default;
+// background-image: url("https://lwflouisa.github.io/SRWeaverComics/images/background2.jpg")
+
+$brand-color:      #EB2323 !default; // Terminal Green
+
+$grey-color:       #EB2323 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
-$orange-color:     #348800 !default;
+$orange-color:     #EB2323 !default;
 $table-text-align: left !default;
 
 // Width of the content area

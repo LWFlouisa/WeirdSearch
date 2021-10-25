@@ -1,4 +1,3 @@
-### S.R. Weaver's Poetry
-My own personal poetry website.
+### WeirdSearch
 
-[Subscribe](https://lwflouisa.github.io/SRWeaverPoetry/feed.xml)
+Subscribe to WeirdSearch Index: [Subscribe](https://lwflouisa.github.io/WeirdSearch/feed.xml)
